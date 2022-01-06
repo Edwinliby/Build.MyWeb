@@ -41,7 +41,8 @@ p{
     padding:20px;
 }
 button{
-    padding-bottom: 20px;   
+    padding-bottom: 20px; 
+    margin-bottom: 20px;
 }
 
 /* For mobile phones: */
@@ -78,8 +79,4 @@ button{
   .col-10 {width: 83.33%;}
   .col-11 {width: 91.66%;}
   .col-12 {width: 100%;}
-}
-.carousel-item .img-fluid {
-  width:100%;
-  height:auto;
 }
